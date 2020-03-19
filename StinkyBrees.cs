@@ -1,12 +1,15 @@
-public class StinkyBrees{
-	private String breeSound;
+public class StinkyBrees 
+{ 
+	private string breeSound;
 	
-	public StinkyBrees{
-	breeSound = "mooon";
+	public StinkyBrees()
+    {
+	breeSound = "moooooOOOOoOOoooOOon";
 	}
-	public String getBreeSound (){
+
+	public string getBreeSound()
+    {
 	return breeSound;
 	}
-
-
 }
+//test comment
